@@ -55,9 +55,9 @@
 <div align="center">
     <p align="center" >
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output-3d-contrib/night.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output-3d-contrib/day.svg" />
-      <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output-3d-contrib/day.svg" />
+      <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/sadath2001/sadath2001/output-3d-contrib/night.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadath2001/sadath2001/output-3d-contrib/day.svg" />
+      <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/sadath2001/sadath2001/output-3d-contrib/night.svg />
     </picture>
   </p>
 </div>
@@ -123,21 +123,20 @@
 <details>
   <summary><b>GitHub statistics</b></summary>
   <br />
-
-
- 
-  </a>
-
   <div align="center">
+  <a href="https://oss.fyi/sadath2001">
+  <img src="dev-card.png" alt="Dev Card">
+  </a>
+  <hr>
     <img src="https://github-readme-stats.vercel.app/api?username=sadath2001&theme=gotham&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadath2001&theme=gotham&show_icons=true&hide_border=true&layout=compact" height="150" alt="Top Languages" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadath2001&theme=gotham&hide_border=true" height="150" alt="GitHub Streak" />
-    <img src="https://github-profile-trophy.vercel.app/?username=thevijayshankersharma&theme=discord&no-frame=true&no-bg=true&column=-1&row=1" height="150" alt="GitHub Trophies" />
+    <hr>
+    <img src="https://github-profile-trophy.vercel.app/?username=sadath2001&theme=discord&no-frame=true&no-bg=true&column=-1&row=1" height="150" alt="GitHub Trophies" />
   </div>
 
   <br />
- <a href="https://github.com/Meetjain1/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadath2001&theme=gotham&hide_border=true" alt="Meet jain's GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadath2001&theme=gotham&hide_border=true" alt="Sadath Hussain's GitHub Activity Graph" />
 
 </details>
 
@@ -146,14 +145,14 @@
 <hr>
 
 <p align="center">
-  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
+  <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
 </p>
 
 <p align="center">
   <a href="https://buymeacoffee.com/sadathh444" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" width="150"/>
   </a>
-  <a href="https://github.com/sponsors/Hemu21" target="_blank">
+  <a href="https://github.com/sponsors/sadath2001" target="_blank">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#black" alt="Sponsor Me" width="150"/>
   </a>
 </p>
