@@ -42,22 +42,18 @@
   <a href="https://x.com/Sadathh1201"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"></a>
 
 </div>
-
-
-
-<br>
-
-
-
-
-<hr>
-
+<div align="center">
+<a href="https://oss.fyi/sadath2001">
+  <img src="dev-card.png" alt="Dev Card">
+  </a>
+</div>
+  <hr>
 <div align="center">
     <p align="center" >
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/sadath2001/sadath2001/output-3d-contrib/night.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadath2001/sadath2001/output-3d-contrib/day.svg" />
-      <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/sadath2001/sadath2001/output-3d-contrib/night.svg />
+      <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/sadath2001/sadath2001/output-3d-contrib/night.svg" />
     </picture>
   </p>
 </div>
@@ -124,23 +120,16 @@
   <summary><b>GitHub statistics</b></summary>
   <br />
   <div align="center">
-  <a href="https://oss.fyi/sadath2001">
-  <img src="dev-card.png" alt="Dev Card">
-  </a>
-  <hr>
     <img src="https://github-readme-stats.vercel.app/api?username=sadath2001&theme=gotham&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadath2001&theme=gotham&show_icons=true&hide_border=true&layout=compact" height="150" alt="Top Languages" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadath2001&theme=gotham&hide_border=true" height="150" alt="GitHub Streak" />
     <hr>
     <img src="https://github-profile-trophy.vercel.app/?username=sadath2001&theme=discord&no-frame=true&no-bg=true&column=-1&row=1" height="150" alt="GitHub Trophies" />
   </div>
-
   <br />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadath2001&theme=gotham&hide_border=true" alt="Sadath Hussain's GitHub Activity Graph" />
 
 </details>
-
-
 
 <hr>
 
