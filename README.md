@@ -4,10 +4,10 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </div>
 <hr>
-<!-- Profile views -->
+<!-- Profile views
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sadath2001&label=Profile%20views&color=000000&style=flat" alt="Profile views" /> 
-</p>
+</p> -->
 
 
 <!-- About Me -->
@@ -39,7 +39,6 @@
   <a href="https://github.com/sadath2001"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
   <a href="https://medium.com/@hsadath44"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://www.linkedin.com/in/sadath-hussain-2ba128193/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://bento.me/yashksaini"><img src="https://img.shields.io/badge/Bento-768CFF.svg?style=for-the-badge&logo=Bento&logoColor=white" alt="Bento"></a>
   <a href="https://x.com/Sadathh1201"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"></a>
 
 </div>
