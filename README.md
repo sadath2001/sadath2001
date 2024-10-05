@@ -43,12 +43,6 @@
 
 </div>
 <div align="center">
-<a href="https://oss.fyi/sadath2001">
-  <img src="dev-card.png" alt="Dev Card">
-  </a>
-</div>
-  <hr>
-<div align="center">
     <p align="center" >
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/sadath2001/sadath2001/output-3d-contrib/night.svg" />
@@ -120,6 +114,10 @@
   <summary><b>GitHub statistics</b></summary>
   <br />
   <div align="center">
+<a href="https://oss.fyi/sadath2001">
+  <img src="dev-card.png" alt="Dev Card">
+  </a>
+  <hr>
     <img src="https://github-readme-stats.vercel.app/api?username=sadath2001&theme=gotham&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadath2001&theme=gotham&show_icons=true&hide_border=true&layout=compact" height="150" alt="Top Languages" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadath2001&theme=gotham&hide_border=true" height="150" alt="GitHub Streak" />
