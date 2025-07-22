@@ -118,7 +118,7 @@
   <br />
   <div align="center">
 <!-- <a href="https://oss.fyi/sadath2001"> -->
-  <img src="dev-card.png" alt="Dev Card">
+<!--   <img src="dev-card.png" alt="Dev Card"> -->
   </a>
   <hr>
     <img src="https://github-readme-stats.vercel.app/api?username=sadath2001&theme=gotham&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
