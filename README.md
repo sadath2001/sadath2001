@@ -117,7 +117,7 @@
   <summary><b>GitHub statistics</b></summary>
   <br />
   <div align="center">
-<a href="https://oss.fyi/sadath2001">
+<!-- <a href="https://oss.fyi/sadath2001"> -->
   <img src="dev-card.png" alt="Dev Card">
   </a>
   <hr>
